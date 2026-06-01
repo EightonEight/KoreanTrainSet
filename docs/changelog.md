@@ -1,6 +1,7 @@
 2.11.2
 -----
  * Fix: (since 16.x/jgrpp-0.72.0) Engine's front/rear light is displayed incorrectly for some dual headed engines now exchanges when 'Allow trains to flip when reversing' config is 'None' [#507]
+ * Fix: Tank car cannot load Oxygen for FIRS 5.x.x [#510]
 
 2.11.1
 -----
